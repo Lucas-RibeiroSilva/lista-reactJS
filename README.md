@@ -1,3 +1,3 @@
-npm expo install react-dom react-native-web  
+npx expo install react-dom react-native-web  
 npm i
-npm expo start
+npx expo start
